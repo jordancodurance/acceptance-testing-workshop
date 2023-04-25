@@ -1,5 +1,9 @@
 ## Getting Started
 
+### Windows
+
+If you are cloning the project on Windows, use `git config --system core.longpaths true` before cloning.
+
 ### Java
 
 Ensure you have Java installed and available with `java --version`

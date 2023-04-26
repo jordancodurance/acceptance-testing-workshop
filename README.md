@@ -2,7 +2,7 @@
 
 ### Windows
 
-If you are cloning the project on Windows, use `git config --system core.longpaths true` before cloning.
+If you are cloning the project on Windows, open a terminal with administrator privileges, and use `git config --system core.longpaths true` before cloning.
 
 ### Java
 

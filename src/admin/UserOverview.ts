@@ -1,5 +1,5 @@
 // @ts-ignore
-import copy from "./user-overview-copy.json" assert { type: 'json' };
+import copy from "./user-overview-copy.json";
 
 export interface UserOverview {
     name: string;
